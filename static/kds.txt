@@ -1,0 +1,5 @@
+python manage.py makemigrations----check changes on program
+python manage.py migrate -----
+
+
+https://source.unsplash.com/daily
